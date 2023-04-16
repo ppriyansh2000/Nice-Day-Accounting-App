@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/priyanshpatel/StudioProjects/nice_day_accounting/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/priyanshpatel/StudioProjects/nice_day_accounting/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/priyanshpatel/StudioProjects/nice_day_accounting/build/ios/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Users/priyanshpatel/StudioProjects/nice_day_accounting/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h \
+  /Users/priyanshpatel/StudioProjects/nice_day_accounting/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/priyanshpatel/StudioProjects/nice_day_accounting/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/priyanshpatel/StudioProjects/nice_day_accounting/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/priyanshpatel/StudioProjects/nice_day_accounting/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/priyanshpatel/StudioProjects/nice_day_accounting/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/priyanshpatel/StudioProjects/nice_day_accounting/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/priyanshpatel/StudioProjects/nice_day_accounting/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/priyanshpatel/StudioProjects/nice_day_accounting/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/priyanshpatel/StudioProjects/nice_day_accounting/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/priyanshpatel/StudioProjects/nice_day_accounting/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/priyanshpatel/StudioProjects/nice_day_accounting/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/priyanshpatel/StudioProjects/nice_day_accounting/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/priyanshpatel/StudioProjects/nice_day_accounting/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/priyanshpatel/StudioProjects/nice_day_accounting/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/priyanshpatel/StudioProjects/nice_day_accounting/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h

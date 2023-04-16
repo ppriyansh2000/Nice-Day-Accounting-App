@@ -1,6 +1,6 @@
 version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
 options: "da35ca6a5f167f30ef7f6da79e16a8aea74a558dda7093ad09d9359f72c380f7"
-build_start_time: [1681679972, 130123000]
-build_end_time: [1681679986, 179217000]
+build_start_time: [1681681057, 173857000]
+build_end_time: [1681681061, 763503000]
 inputs:
   "/Users/priyanshpatel/StudioProjects/nice_day_accounting/ios/Runner/AppDelegate.swift": [1634330199, 0]
